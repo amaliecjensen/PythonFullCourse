@@ -4,3 +4,7 @@ def calc_tax():
 
 def calc_price():
     pass
+
+
+def calc_shipping():
+    pass
